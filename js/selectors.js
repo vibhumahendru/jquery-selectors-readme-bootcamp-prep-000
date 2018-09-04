@@ -3,4 +3,6 @@ const x =  $('p');
 return x;
 }
 
-function 
+function lastImageSelector (){
+ return $('img:last')
+}
