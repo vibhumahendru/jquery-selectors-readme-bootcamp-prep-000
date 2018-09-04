@@ -6,3 +6,5 @@ return x;
 function lastImageSelector (){
  return $('img:last')
 }
+
+function 
